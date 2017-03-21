@@ -20,4 +20,4 @@ markdown: kramdown
 #permalink: /:year/:month/:day/:title
 permalink: /:title
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
