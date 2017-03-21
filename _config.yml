@@ -19,3 +19,5 @@ markdown: kramdown
 #permalink: /:categories/:years/:month/:day/:title
 #permalink: /:year/:month/:day/:title
 permalink: /:title
+
+theme: jekyll-theme-merlot
